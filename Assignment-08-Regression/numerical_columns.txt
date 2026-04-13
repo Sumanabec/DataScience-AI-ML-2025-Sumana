@@ -1,0 +1,165 @@
+MSSubClass Feature contains 15 unique values:
+ 
+LotFrontage Feature contains 110 unique values:
+ 
+LotArea Feature contains 1073 unique values:
+ 
+OverallQual Feature contains 10 unique values:
+ 
+OverallQual
+5     397
+6     374
+7     319
+8     168
+4     116
+9      43
+3      20
+10     18
+2       3
+1       2 
+ 
+OverallCond Feature contains 9 unique values:
+ 
+OverallCond
+5    821
+6    252
+7    205
+8     72
+4     57
+3     25
+9     22
+2      5
+1      1 
+ 
+YearBuilt Feature contains 112 unique values:
+ 
+YearRemodAdd Feature contains 61 unique values:
+ 
+MasVnrArea Feature contains 327 unique values:
+ 
+BsmtFinSF1 Feature contains 637 unique values:
+ 
+BsmtFinSF2 Feature contains 144 unique values:
+ 
+BsmtUnfSF Feature contains 780 unique values:
+ 
+TotalBsmtSF Feature contains 721 unique values:
+ 
+1stFlrSF Feature contains 753 unique values:
+ 
+2ndFlrSF Feature contains 417 unique values:
+ 
+LowQualFinSF Feature contains 24 unique values:
+ 
+GrLivArea Feature contains 861 unique values:
+ 
+BsmtFullBath Feature contains 4 unique values:
+ 
+BsmtFullBath
+0    856
+1    588
+2     15
+3      1 
+ 
+BsmtHalfBath Feature contains 3 unique values:
+ 
+BsmtHalfBath
+0    1378
+1      80
+2       2 
+ 
+FullBath Feature contains 4 unique values:
+ 
+FullBath
+2    768
+1    650
+3     33
+0      9 
+ 
+HalfBath Feature contains 3 unique values:
+ 
+HalfBath
+0    913
+1    535
+2     12 
+ 
+BedroomAbvGr Feature contains 8 unique values:
+ 
+BedroomAbvGr
+3    804
+2    358
+4    213
+1     50
+5     21
+6      7
+0      6
+8      1 
+ 
+KitchenAbvGr Feature contains 4 unique values:
+ 
+KitchenAbvGr
+1    1392
+2      65
+3       2
+0       1 
+ 
+TotRmsAbvGrd Feature contains 12 unique values:
+ 
+Fireplaces Feature contains 4 unique values:
+ 
+Fireplaces
+0    690
+1    650
+2    115
+3      5 
+ 
+GarageYrBlt Feature contains 97 unique values:
+ 
+GarageCars Feature contains 5 unique values:
+ 
+GarageCars
+2    824
+1    369
+3    181
+0     81
+4      5 
+ 
+GarageArea Feature contains 441 unique values:
+ 
+WoodDeckSF Feature contains 274 unique values:
+ 
+OpenPorchSF Feature contains 202 unique values:
+ 
+EnclosedPorch Feature contains 120 unique values:
+ 
+3SsnPorch Feature contains 20 unique values:
+ 
+ScreenPorch Feature contains 76 unique values:
+ 
+PoolArea Feature contains 8 unique values:
+ 
+PoolArea
+0      1453
+512       1
+648       1
+576       1
+555       1
+480       1
+519       1
+738       1 
+ 
+MiscVal Feature contains 21 unique values:
+ 
+MoSold Feature contains 12 unique values:
+ 
+YrSold Feature contains 5 unique values:
+ 
+YrSold
+2009    338
+2007    329
+2006    314
+2008    304
+2010    175 
+ 
+SalePrice Feature contains 663 unique values:
+ 
